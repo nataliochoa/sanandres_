@@ -1,0 +1,14 @@
+{
+  "name": "Mapa de teselas de San Andres",
+  "version": "1.0.0",
+  "description": "Servicio OGC de San Andres",
+  "attribution": "OSM", 
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "jpg",
+  "minzoom": "13",
+  "maxzoom": "17",
+  "bounds": "-81.72746,12.56456,-81.68557,12.59924",
+  "scale": "1",
+  "profile": "mercator"
+}
